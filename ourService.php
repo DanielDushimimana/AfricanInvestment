@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-owesome/3.3.7/css/font-owesome.min.css">    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-owesome/4.0.0/css/font-owesome.min.css">
     
-    <link rel="stylesheet" href="css/head.css" type="text/css">
+    <link rel="stylesheet" href="css/header.css" type="text/css">
 
     <script type="text/javascript" src="js/myJs.js"></script>
     <script src="https://kit.fontowesome.com/a076d05399.js"></script>
@@ -30,70 +30,71 @@
       <p>what we realy do</p>  
     </div>
 
-    <br><br><br><br><br>
+    <br><br><br><br><br><br><br>
     <div class="about-content1">
       <p>Africa Investment Portal is a Pan African company that was created to strategically help and facilitate 
          investment in all African countries from company creation to access to market 
       </p>
     </div>    
+    <br><br><br>
 
     <div class="container">      
       <div class="tab-content">
         <div class="row">
           <div class="col-lg-4 mb-lg-0 aos-animate" data-aos="fade-right">          
             <ul class="nav nav-tabs flex-column">
-              <li class="nav-item">
-                <a href="#heading-one" class="nav-link show" data-toggle="tab">
+              <li class="nav-item active">
+                <a href="#heading-one" class="nav-link nav-link" data-toggle="tab">
                   Company incorporation/registration in all African countries
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-two" class="nav-link bg-primary text-white my-2" data-toggle="tab">
+                <a href="#heading-two" class="nav-link  my-2" data-toggle="tab">
                   International Companies/Brands  promotion and representation in all African countries
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-three" class="nav-link bg-primary text-white" data-toggle="tab">
+                <a href="#heading-three" class="nav-link" data-toggle="tab">
                   Regulatory Licenses/ Compliance Facilitation  in all African countries
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-four" class="nav-link bg-primary text-white my-2" data-toggle="tab">
+                <a href="#heading-four" class="nav-link my-2" data-toggle="tab">
                   Bank Account opening  assistance
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-five" class="nav-link bg-primary text-white" data-toggle="tab">
+                <a href="#heading-five" class="nav-link" data-toggle="tab">
                   Business expansion Facilitation in Africa
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-six" class="nav-link bg-primary text-white my-2" data-toggle="tab">
+                <a href="#heading-six" class="nav-link my-2" data-toggle="tab">
                   Workshop and fair organization in all African countries
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-seven" class="nav-link bg-primary text-white" data-toggle="tab">
+                <a href="#heading-seven" class="nav-link" data-toggle="tab">
                   Meetings planning in all African countries
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-eight" class="nav-link bg-primary text-white my-2" data-toggle="tab">
+                <a href="#heading-eight" class="nav-link my-2" data-toggle="tab">
                   Access to the African market facilitation
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-nine" class="nav-link bg-primary text-white" data-toggle="tab">
+                <a href="#heading-nine" class="nav-link" data-toggle="tab">
                   Due diligence of the most valuable businesses in each and every African country
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-ten" class="nav-link bg-primary text-white my-2" data-toggle="tab">
+                <a href="#heading-ten" class="nav-link my-2" data-toggle="tab">
                   Investments and Business Advisory services
                 </a>
               </li>
               <li class="nav-item mt-2">
-                <a href="#heading-eleven" class="nav-link bg-primary text-white" data-toggle="tab">
+                <a href="#heading-eleven" class="nav-link" data-toggle="tab">
                   Feasibility study ,Market research/analysis for a specific sector, industry or market in all 
                   Africa
                 </a>
@@ -103,14 +104,14 @@
           <div class="col-lg-7 ml-auto aos-init aos-animate" data-aos="fade-left" data-aos-delay="100">
             <div class="tab-content">
               <div class="tab-pane active" id="heading-one">
-                <h4 >Company incorporation/registration in all African countries</h4> 
-                <p style="color: black;font-family: verdana;font-size: 16px;padding-top: 30px;">You don’t need to be on ground to register your company or a branch 
+                <h1>Company incorporation/registration in all African countries</h1> 
+                <p>You don’t need to be on ground to register your company or a branch 
                     in any African Country, we do everything for you from beginning to the end. The duration for 
                     the whole process differs depending on countries.
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-two">
-                <h2>International Companies/Brands  promotion and representation in all African countries</h2> 
+                <h1>International Companies/Brands  promotion and representation in all African countries</h1> 
                 <p>We represent international companies and brands locally in all African countries, 
                     we assist them in products/services promotion, we represent the in all bidding/tendering 
                     processes, we do specific assignments on behalf of intentional companies which are not 
@@ -118,21 +119,21 @@
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-three">
-                <h2>Regulatory Licenses/ Compliance Facilitation  in all African countries</h2> 
+                <h1>Regulatory Licenses/ Compliance Facilitation  in all African countries</h1> 
                 <p>You don’t need to travel for you to comply with local regulatory compliance such Type 
                     Approval, (Certificate of Conformity ) Technical and Safety requirements certificate and 
                     other approvals and certifications.
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-four">
-                <h2>Bank Account opening  assistance</h2> 
+                <h1>Bank Account opening  assistance</h1> 
                 <p>We assist you in corporate bank account opening in all African countries without you to 
                     travel, we advise on the best banking services providers. <br> 
                     Note:  We comply with all Foreign/ International regulations 
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-five">
-                <h2>Business expansion Facilitation in Africa</h2> 
+                <h1>Business expansion Facilitation in Africa</h1> 
                 <p>We Assist International companies to expand in all African countries, we do the market 
                     analysis and research, we provide the overall business climate/ environment in a specific
                     African country, we assist in regulatory compliances, we assist in buying or Renting Land 
@@ -141,21 +142,21 @@
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-six">
-                <h2>Workshop & fair organization in all African countries</h2> 
+                <h1>Workshop &amp; fair organization in all African countries</h1> 
                 <p>When you want to organize a workshop or a fair and you don’t have time to get down to the 
                     nitty gritty of organization, we take care of everything on your behalf with the best 
                     quality price ratio (by comparing all offers before choosing the best). 
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-seven">
-                <h2>Meetings planning in all African countries</h2> 
+                <h1>Meetings planning in all African countries</h1> 
                 <p>We organize different meetings according to the client’s needs, we organize meetings with 
                     local authorities, private sectors players, stakeholders in specific sector,we do linkage 
                     with local media, demo meeting organization… 
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-eight">
-                <h2>Access to the African market facilitation</h2> 
+                <h1>Access to the African market facilitation</h1> 
                 <p>We help International companies or African companies to expand in other African countries 
                     by strategically positioning the products or services, we organize products demonstration 
                     with local authorities, we organize workshops and other events to promote products or 
@@ -164,7 +165,7 @@
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-nine">
-                <h2>Due diligence of the most valuable businesses in each and every African country</h2> 
+                <h1>Due diligence of the most valuable businesses in each and every African country</h1> 
                 <p>We take time to investigate in hot and profitable businesses in Africa and we propose  
                     them to our clients, we know some people out there have  money to invest but who don’t know 
                     exactly where and how to invest , we can take an example of African diaspora, most of the 
@@ -176,15 +177,15 @@
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-ten">
-                <h2>Investments and Business Advisory services</h2> 
+                <h1>Investments and Business Advisory services</h1> 
                 <p>Knowing the Business and investment environment is each and every African country, 
                     we advise the investors on Taxation, Finance, business climate, governance, New business 
                     trends, Future business opportunities, sales and marketing, SOP, (Standards operating Procedures)    
                 </p>
               </div>
               <div class="tab-pane fade" id="heading-eleven">
-                <h2>Feasibility study ,Market research/analysis for a specific sector, industry or market in 
-                    all Africa</h2> 
+                <h1>Feasibility study ,Market research/analysis for a specific sector, industry or market in 
+                    all Africa</h1> 
                 <p>On request we do a customized and tailor made ground work for the client, Business Plans, 
                    feasibility studies, Market research and analysis, competition analysis Proof of Concept etc…   
                 </p>
@@ -194,7 +195,19 @@
 
         </div>
       </div>
-    </div>       
+    </div>    
+    <!--<script>
+      function _class(name){
+        return document.getElementsByClassName(name);
+      }
+      let tabPanes = _class("nav-tabs")[0].getElementsByTagName(li);
+      for(let i=0;i<tabPanes.length;i++){
+        tabPanes[i].addEventListener("click",function(){
+          _class("nav-tabs")[0].getElementByClassName("active")[0].classList.remove("active");
+          tabPanes[i].classList.add("active");
+        });
+      }
+    </script> -->  
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>

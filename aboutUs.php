@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-owesome/3.3.7/css/font-owesome.min.css">    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-owesome/4.0.0/css/font-owesome.min.css">
     
-    <link rel="stylesheet" href="css/head.css" type="text/css">
+    <link rel="stylesheet" href="css/header.css" type="text/css">
 
     <script type="text/javascript" src="js/myJs.js"></script>
     <script src="https://kit.fontowesome.com/a076d05399.js"></script>
