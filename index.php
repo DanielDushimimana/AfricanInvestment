@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-owesome/3.3.7/css/font-owesome.min.css">
     
-    <link rel="stylesheet" href="css/head.css" type="text/css">
+    <link rel="stylesheet" href="css/header.css" type="text/css">
 
     <script type="text/javascript" src="js/myJs.js"></script>
     <script src="https://kit.fontowesome.com/a076d05399.js"></script>
@@ -37,19 +37,22 @@
       <div class="item active">
         <img src="images/slider1.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption text-center">
-          <h4 style="font-size:25px" >protecting the the nature we all rely on for food, fresh water and livelihoods</h4>
+          <h2>AFRICA INVESTMENT PORTAL</h2>
+          <h4 style="font-size:25px" >The gateway to your successful investment in Africa</h4>
         </div> 
       </div>
       <div class="item">
         <img src="images/slider2.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption text-center">
-          <h4 style="font-size:25px" >protecting the the nature we all rely on for food, fresh water and livelihoods</h4>
+          <h2>AFRICA INVESTMENT PORTAL</h2>
+          <h4 style="font-size:25px" >The gateway to your successful investment in Africa</h4>
         </div> 
       </div>
       <div class="item">
         <img src="images/slider3.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption text-center">
-          <h4 style="font-size:25px" >protecting the the nature we all rely on for food, fresh water and livelihoods</h4>
+          <h2>AFRICA INVESTMENT PORTAL</h2>
+          <h4 style="font-size:25px" >The gateway to your successful investment in Africa</h4>
         </div> 
       </div>
     </div>

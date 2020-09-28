@@ -328,15 +328,16 @@ header nav{
   display: block;
 }
 .box p{
-  color: gray;
+  color: #8f8d19;
   text-transform: uppercase;
+  font-family: bignoodletitling;
   font-weight: 500;
   text-align: center;
-  font-size: 14px;
+  font-size: 18px;
+  letter-spacing: 1px;
 }
 .box input[type = "text"]{
   width: 80%;
-  color: gray;
   padding: 14px 10px;
   margin: 20px auto;
   text-align: center;
@@ -348,7 +349,6 @@ header nav{
 .box textarea{
   width: 80%;
   height: 200px;
-  color: gray;
   padding: 14px 10px;
   margin: 20px auto;
   text-align: center;
@@ -366,23 +366,46 @@ header nav{
   background: none;
   margin: 20px auto;
   text-align: center;
-  border: 1px solid #2ecc71;
+  border: 3px solid #8f8d19;
   padding: 14px 0px;
-  color: gray;
+  font-family: "poppins", sans-serif;
   font-size: 16px;
   transition: 0.25s;
   cursor: pointer;
   text-transform: capitalize;
 }
 .box input[type = "submit"]:hover{
-  border: 4px solid #2ecc71;
+  border: 6px solid #2ecc71;
 }
 .contact-content1-right p{
   font-size: 12px;
   line-height: 25px;
 }
-.container .tab-content > div{
-  transition-duration: .8s;
+.nav-tabs .nav-item a{
+  color: #3498db;
+  font-family: verdana;
+  font-size: 14px;
+  text-align: justify;
+  text-justify: inter-word;
+  box-shadow: 1px 1px 1px 1px grey;  
+  font-weight: 200;
+}
+.tab-content > div h1{
+  color: #2c3e50;
+  font-family: verdana;
+  text-align: justify;
+  text-justify: inter-word;  
+  padding-top: 30px;
+}
+.tab-content > div p{
+  color: black;
+  font-family: "poppins", sans-serif;
+  font-size: 16px;
+  padding-top: 30px;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 25px;
+  letter-spacing: 1px;
 }
 
    /*-------------------------------------------------------------------------------------
