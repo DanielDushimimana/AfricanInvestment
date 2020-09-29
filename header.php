@@ -1,5 +1,5 @@
 <header>  
-  <img class="logo1" src="images/Logo.png">
+  <img class="logo1" src="images/logo-1.png">
   <nav>
     <input type="checkbox" id="check">
     <label for="check" class="checkbtn">
@@ -10,9 +10,10 @@
         <li><a href="aboutUs">about us</a></li>
         <li><a href="ourService">Our Services</a></li>
         <li><a href="contactUs">contact us</a></li>
+        <li><a href="contactUs">media</a></li>
     </ul>
   </nav>           
-  <img class="logo2" src="images/Logo.png">      
+  <img class="logo2" src="images/logo-1.png">      
 </header>
 <script>
     window.addEventListener("scroll", function(){

@@ -9,11 +9,10 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-owesome/3.3.7/css/font-owesome.min.css">
-    
+
+    <link rel="stylesheet" href="css/slick.css" type="text/css">    
     <link rel="stylesheet" href="css/header.css" type="text/css">
 
-    <script type="text/javascript" src="js/myJs.js"></script>
-    <script src="https://kit.fontowesome.com/a076d05399.js"></script>
 
 
     <title>Home-Isimbi</title>
@@ -69,11 +68,13 @@
   </div>
   <!-- carousel slider ends here -->
 
-  <br>
+  <br> <br> <br><br> <br>
   <div class="content">
     <p class="content1">We are a socially-motivated management consultancy</p>
     <p class="content2">that brings an ‘owner’s mindset’ to every engagement</p> <br>    
   </div>
+
+  <br> <br>
 
   <div class="content3"> <hr class="line1"> </div>
 
@@ -109,12 +110,89 @@
 
     </div>
   </div>
+
   <div class="content3"> <hr class="line1"> 
   </div>
 
+  <br> <br>
+  
+  <div style="width:70%;height:auto;margin:auto;text-align:center"> 
+    <h2>Past Events/Summits</h2>
+  </div>
+  <br> <br>
+
+  <div class="w3-container for-slick-slider multiple-items">
+
+    <div class="w3-card-4 items" style="width:30%">
+    <iframe width="100%" height="250px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="w3-container">
+        <p>The Italian / Austrian Alps</p>
+      </div>
+      <div class="overlay"></div>
+    </div>
+    <div class="w3-card-4 items" style="width:30%">
+    <iframe width="100%" height="250px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="w3-container">
+        <p>The Italian / Austrian Alps</p>
+      </div>
+      <div class="overlay"></div>
+    </div>
+    <div class="w3-card-4 items" style="width:30%">
+    <iframe width="100%" height="250px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="w3-container">
+        <p>The Italian / Austrian Alps</p>
+      </div>
+      <div class="overlay"></div>
+    </div>
+    <div class="w3-card-4 items" style="width:30%">
+    <iframe width="100%" height="250px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="w3-container">
+        <p>The Italian / Austrian Alps</p>
+      </div>
+      <div class="overlay"></div>
+    </div>
+  </div>
+
+
+
+
+
+  <div class="arrow-prev">
+    <span><i class="fas fa-angle-left"></i></span>
+  </div>  
+  <div class="arrow-next">
+    <span><i class="fas fa-angle-right"></i></span>
+  </div>  
+  <br> <br> <br> <br>
+
+  <div class="for-slick-slider1 slider-nav">
+    <div class="w3-card-4 items" style="width:10%">
+      <iframe width="100%" height="100px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      <div class="overlay"></div>
+    </div>
+    <div class="w3-card-4 items" style="width:10%">
+      <iframe width="100%" height="100px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="overlay"></div>
+    </div>
+    <div class="w3-card-4 items" style="width:10%">
+      <iframe width="100%" height="100px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="overlay"></div>
+    </div>
+    <div class="w3-card-4 items" style="width:10%">
+      <iframe width="100%" height="100px" src="https://www.youtube.com/embed/nCqBIoKeTho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="overlay"></div>
+    </div>   
+  </div>
+  <br> <br><br> <br>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/slick.min.js"></script>
+  <script src="js/custom.js"></script>
 
 </body>
 </html>
