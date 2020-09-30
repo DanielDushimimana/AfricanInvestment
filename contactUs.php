@@ -16,14 +16,11 @@
     
     <link rel="stylesheet" href="css/header.css" type="text/css">
 
-    <script type="text/javascript" src="js/myJs.js"></script>
-    <script src="https://kit.fontowesome.com/a076d05399.js"></script>
-
     <title>Home-Isimbi</title>
   </head>
 
   <body>
-    <?php include("header.php") ?>
+    <?php include("header.php") ?>    
 
     <div class="content-area" style="height: auto; padding-top: 0px">
       <img src="images/N9.jpg">
